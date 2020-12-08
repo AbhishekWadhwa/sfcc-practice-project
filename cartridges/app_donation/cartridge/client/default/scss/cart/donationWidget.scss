@@ -1,0 +1,9 @@
+.card {
+    &.product-info {
+        &.donation-widget {
+            .right {
+                float: right;
+            }
+        }
+    }
+}
